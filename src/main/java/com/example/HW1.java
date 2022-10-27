@@ -24,9 +24,7 @@ public final class HW1 {
                 fl = scanner.nextFloat();
                 System.out.println(fl);
             } catch (Exception e){
-
             }
-            
         }
     }
 }
